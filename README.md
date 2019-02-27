@@ -20,3 +20,5 @@ Move from mouse clicks to 1-second fixations as a behavioural response. For this
 
 - Record which window that was, somehow (this is the least important, because they'll get it right 99% of the time, but we still want 
   the behavioural data).
+
+I've uploaded the SDK manual to the master folder to have it handy, because we'll have to consult that quite often I think.
