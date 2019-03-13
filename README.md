@@ -1,4 +1,8 @@
 # genpred
+NOTE: Like an idiot, I just discovered that the SDK had a Python example of a gaze contingent paradigm. I don't think it is exactly what we're looking for, but it should give us the right tools (especially you, who are able to interpret these things and reuse them much more straightforwardly than I do). Check it out!
+
+-----
+
 Python script for L3 gender prediction experiment
 
 The idea of this repo is for us to work together on making improvements to the python script.
